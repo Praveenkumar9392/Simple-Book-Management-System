@@ -27,10 +27,7 @@ Thumbs.db
 # Env files
 .env
 
-# Migrations
-**/migrations/*.pyc
-**/migrations/__pycache__/
-**/migrations/*.py
+
 
 # Docker
 *.pid
