@@ -13,7 +13,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Praveenkumar9392/Simple-Book-Management-System.git
 cd book_manager
 ```
 
