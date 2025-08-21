@@ -26,7 +26,6 @@ Thumbs.db
 
 # Env files
 .env
-.env.*
 
 # Migrations
 **/migrations/*.pyc
